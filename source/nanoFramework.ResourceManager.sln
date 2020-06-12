@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "nanoFramework.ResourceManager", "nanoFramework.ResourceManager\nanoFramework.ResourceManager.nfproj", "{BA878982-F141-426F-8A8C-9033DCF5741D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A2CA3C5A-1351-439C-9AA4-04DEADC80CC9}"
+	ProjectSection(SolutionItems) = preProject
+		nanoFramework.ResourceManager.DELIVERABLES.nuspec = nanoFramework.ResourceManager.DELIVERABLES.nuspec
+		nanoFramework.ResourceManager.nuspec = nanoFramework.ResourceManager.nuspec
+		NuGet.Config = NuGet.Config
+		version.json = version.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA878982-F141-426F-8A8C-9033DCF5741D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA878982-F141-426F-8A8C-9033DCF5741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA878982-F141-426F-8A8C-9033DCF5741D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA878982-F141-426F-8A8C-9033DCF5741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA878982-F141-426F-8A8C-9033DCF5741D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA878982-F141-426F-8A8C-9033DCF5741D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18052FE-7F1B-4524-8DD5-A97824A20467}
+	EndGlobalSection
+EndGlobal
