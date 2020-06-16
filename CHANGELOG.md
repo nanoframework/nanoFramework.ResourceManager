@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.0](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.0.0) (2020-06-12)
+
+[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.0.0-preview.17...v1.0.0)
+
+**Documentation and other chores:**
+
+- Release release-v1.0.0 [\#15](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/pull/15)
+
 ## [v1.0.0-preview.17](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.0.0-preview.17) (2020-06-11)
 
 [Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.0.0-preview.15...v1.0.0-preview.17)
