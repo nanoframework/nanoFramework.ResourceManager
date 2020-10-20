@@ -2,7 +2,15 @@
 
 ## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/HEAD)
 
-[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.2...HEAD)
+[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.9...HEAD)
+
+**Documentation and other chores:**
+
+- Bumps nanoFramework.CoreLibrary from 1.9.0-preview.5 to 1.9.1-preview.4 [\#20](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/pull/20)
+
+## [v1.1.2-preview.9](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.1.2-preview.9) (2020-10-01)
+
+[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.2...v1.1.2-preview.9)
 
 **Documentation and other chores:**
 
