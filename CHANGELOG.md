@@ -2,7 +2,15 @@
 
 ## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/HEAD)
 
-[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.22...HEAD)
+[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.27...HEAD)
+
+**Documentation and other chores:**
+
+- Bumps nanoFramework.CoreLibrary from 1.10.1-preview.11 to 1.10.3-preview.7 [\#29](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/pull/29)
+
+## [v1.1.2-preview.27](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.1.2-preview.27) (2021-03-02)
+
+[Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.22...v1.1.2-preview.27)
 
 **Documentation and other chores:**
 
@@ -166,10 +174,6 @@
 
 [Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.0.0-preview.5...v1.0.0-preview.7)
 
-**Documentation and other chores:**
-
-- Bumps nanoFramework.CoreLibrary from 1.6.0-preview.1 to 1.7.0-preview.2 [\#5](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/pull/5)
-
 ## [v1.0.0-preview.5](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.0.0-preview.5) (2019-11-14)
 
 [Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.0.0-preview.4...v1.0.0-preview.5)
@@ -184,6 +188,7 @@
 
 **Documentation and other chores:**
 
+- Bumps nanoFramework.CoreLibrary from 1.6.0-preview.1 to 1.7.0-preview.2 [\#5](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/pull/5)
 - Bumps nanoFramework.CoreLibrary from 1.5.0-preview.1 to 1.5.1-preview.1 [\#3](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/pull/3)
 
 ## [v1.0.0-preview.3](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.0.0-preview.3) (2019-11-04)
