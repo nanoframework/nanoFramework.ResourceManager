@@ -25,7 +25,7 @@ variables:
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
   nugetPackageName: 'nanoFramework.ResourceManager'
-  repoName: 'lib-nanoFramework.ResourceManager'
+  repoName: 'nanoFramework.ResourceManager'
 
 steps:
 
