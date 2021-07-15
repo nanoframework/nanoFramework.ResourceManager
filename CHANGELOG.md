@@ -1,6 +1,6 @@
 # Changelog
 
-## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/HEAD)
+## [v1.1.0](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/tree/v1.1.0) (2020-06-16)
 
 [Full Changelog](https://github.com/nanoframework/lib-nanoFramework.ResourceManager/compare/v1.1.2-preview.27...HEAD)
 
