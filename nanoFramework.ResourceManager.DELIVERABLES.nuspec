@@ -4,8 +4,7 @@
     <id>nanoFramework.ResourceManager.DELIVERABLES</id>
     <version>$version$</version>
     <title>nanoFramework.ResourceManager.DELIVERABLES</title>
-    <authors>nanoFramework project contributors</authors>
-    <owners>nanoframework</owners>
+    <authors>nanoframework</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>
     </releaseNotes>
