@@ -2,6 +2,58 @@
 
 ## [v1.1.3-preview.8](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.3-preview.8) (2021-12-02)
 
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.13...HEAD)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#53](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/53)
+
+## [v1.1.4-preview.13](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.13) (2022-03-17)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.11...v1.1.4-preview.13)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#52](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/52)
+
+## [v1.1.4-preview.11](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.11) (2022-03-14)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.8...v1.1.4-preview.11)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#51](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/51)
+
+## [v1.1.4-preview.8](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.8) (2022-02-17)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.6...v1.1.4-preview.8)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#50](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/50)
+
+## [v1.1.4-preview.6](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.6) (2022-01-28)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.4...v1.1.4-preview.6)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#49](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/49)
+
+## [v1.1.4-preview.4](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.4) (2022-01-20)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.3...v1.1.4-preview.4)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#48](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/48)
+
+## [v1.1.3](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.3) (2021-12-02)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.3-preview.8...v1.1.3)
+
+## [v1.1.3-preview.8](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.3-preview.8) (2021-12-02)
+
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.3-preview.6...v1.1.3-preview.8)
 
 **Documentation and other chores:**
