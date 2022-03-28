@@ -1,8 +1,8 @@
 # Changelog
 
-## [v1.1.3-preview.8](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.3-preview.8) (2021-12-02)
+## [v1.1.4-preview.15](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.15) (2022-03-28)
 
-[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.13...HEAD)
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.13...v1.1.4-preview.15)
 
 **Documentation and other chores:**
 
