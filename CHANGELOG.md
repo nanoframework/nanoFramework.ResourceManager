@@ -2,7 +2,15 @@
 
 ## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/HEAD)
 
-[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.11...HEAD)
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.13...HEAD)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#53](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/53)
+
+## [v1.1.4-preview.13](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.13) (2022-03-17)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.11...v1.1.4-preview.13)
 
 **Documentation and other chores:**
 
