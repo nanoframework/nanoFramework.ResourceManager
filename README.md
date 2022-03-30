@@ -10,8 +10,7 @@
 
 | Component | Build Status | NuGet Package |
 |:-|---|---|
-| nanoFramework.ResourceManager | [![Build Status](https://dev.azure.com/nanoframework/nanoFramework.ResourceManager/_apis/build/status/nanoframework.lib-nanoFramework.ResourceManager?branchName=main)](https://dev.azure.com/nanoframework/nanoFramework.ResourceManager/_build/latest?definitionId=53&branchName=main) | [![NuGet](https://img.shields.io/nuget/v/nanoFramework.ResourceManager.svg?label=NuGet&style=flat&logo=nuge)](https://www.nuget.org/packages/nanoFramework.ResourceManager/) |
-| nanoFramework.ResourceManager (preview) | [![Build Status](https://dev.azure.com/nanoframework/nanoFramework.ResourceManager/_apis/build/status/nanoframework.lib-nanoFramework.ResourceManager?branchName=develop)](https://dev.azure.com/nanoframework/nanoFramework.ResourceManager/_build/latest?definitionId=53&branchName=develop) | [![NuGet](https://img.shields.io/nuget/vpre/nanoFramework.ResourceManager.svg?label=NuGet&style=flat&logo=nuge)](https://www.nuget.org/packages/nanoFramework.ResourceManager/) |
+| nanoFramework.ResourceManager | [![Build Status](https://dev.azure.com/nanoframework/nanoFramework.ResourceManager/_apis/build/status/nanoFramework.ResourceManager?repoName=nanoframework%2FnanoFramework.ResourceManager&branchName=main)](https://dev.azure.com/nanoframework/nanoFramework.ResourceManager/_build/latest?definitionId=53&repoName=nanoframework%2FnanoFramework.ResourceManager&branchName=main) | [![NuGet](https://img.shields.io/nuget/v/nanoFramework.ResourceManager.svg?label=NuGet&style=flat&logo=nuge)](https://www.nuget.org/packages/nanoFramework.ResourceManager/) |
 
 ## Feedback and documentation
 
