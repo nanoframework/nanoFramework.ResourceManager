@@ -6,7 +6,7 @@
                                                                                
 ===================================================================================
 
-API docs: https://docs.nanoframework.net/api/nanoFramework.ResourceManager.html
+API docs: https://docs.nanoframework.net/api/System.Resources.ResourceManager.html
 
 Browse our samples repository: https://github.com/nanoframework/samples
 
