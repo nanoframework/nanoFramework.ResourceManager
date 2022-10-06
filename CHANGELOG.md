@@ -1,5 +1,21 @@
 # Changelog
 
+## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/HEAD)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4...HEAD)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#55](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/55)
+
+## [v1.1.4](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4) (2022-03-28)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.15...v1.1.4)
+
+**Documentation and other chores:**
+
+- release-v1.1.4 [\#54](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/54)
+
 ## [v1.1.4-preview.15](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.4-preview.15) (2022-03-28)
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4-preview.13...v1.1.4-preview.15)
@@ -52,6 +68,10 @@
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.3-preview.8...v1.1.3)
 
+**Documentation and other chores:**
+
+- release-v1.1.3 [\#47](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/47)
+
 ## [v1.1.3-preview.8](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.3-preview.8) (2021-12-02)
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.3-preview.6...v1.1.3-preview.8)
@@ -71,6 +91,10 @@
 ## [v1.1.2](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.2) (2021-07-15)
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.2-preview.43...v1.1.2)
+
+**Documentation and other chores:**
+
+- release-v1.1.2 [\#43](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/43)
 
 ## [v1.1.2-preview.43](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.2-preview.43) (2021-07-14)
 
@@ -222,13 +246,25 @@
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.0...v1.1.1)
 
+**Documentation and other chores:**
+
+- Release release-v1.1.1 [\#17](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/17)
+
 ## [v1.1.0](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.1.0) (2020-06-16)
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.0.0...v1.1.0)
 
+**Documentation and other chores:**
+
+- Release release-v1.1.0 [\#16](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/16)
+
 ## [v1.0.0](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.0.0) (2020-06-12)
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.0.0-preview.17...v1.0.0)
+
+**Documentation and other chores:**
+
+- Release release-v1.0.0 [\#15](https://github.com/nanoframework/nanoFramework.ResourceManager/pull/15)
 
 ## [v1.0.0-preview.17](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.0.0-preview.17) (2020-06-11)
 
