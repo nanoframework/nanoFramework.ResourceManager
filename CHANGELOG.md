@@ -1,8 +1,8 @@
 # Changelog
 
-## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/HEAD)
+## [v1.2.5](https://github.com/nanoframework/nanoFramework.ResourceManager/tree/v1.2.5) (2022-10-06)
 
-[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4...HEAD)
+[Full Changelog](https://github.com/nanoframework/nanoFramework.ResourceManager/compare/v1.1.4...v1.2.5)
 
 **Documentation and other chores:**
 
