@@ -1,13 +1,11 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "nanoFramework.ResourceManager", "nanoFramework.ResourceManager\nanoFramework.ResourceManager.nfproj", "{BA878982-F141-426F-8A8C-9033DCF5741D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A2CA3C5A-1351-439C-9AA4-04DEADC80CC9}"
 	ProjectSection(SolutionItems) = preProject
-		nanoFramework.ResourceManager.DELIVERABLES.nuspec = nanoFramework.ResourceManager.DELIVERABLES.nuspec
 		nanoFramework.ResourceManager.nuspec = nanoFramework.ResourceManager.nuspec
 		NuGet.Config = NuGet.Config
 		version.json = version.json
