@@ -12,8 +12,7 @@
     <ProjectGuid>ba878982-f141-426f-8a8c-9033dcf5741d</ProjectGuid>
     <OutputType>Library</OutputType>
     <FileAlignment>512</FileAlignment>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <AssemblyName>nanoFramework.ResourceManager</AssemblyName>
     <TargetFrameworkVersion>v1.0</TargetFrameworkVersion>
     <NF_IsCoreLibrary>True</NF_IsCoreLibrary>
@@ -52,12 +51,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="mscorlib">
-      <HintPath>..\packages\nanoFramework.CoreLibrary.2.0.0-preview.29\lib\netnano1.0\mscorlib.dll</HintPath>
-    </Reference>
+    <Content Include="packages.lock.json" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.lock.json" />
+    <Reference Include="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\packages\nanoFramework.CoreLibrary.2.0.0-preview.32\lib\netnano1.0\mscorlib.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Import Project="$(NanoFrameworkProjectSystemPath)NFProjectSystem.CSharp.targets" Condition="Exists('$(NanoFrameworkProjectSystemPath)NFProjectSystem.CSharp.targets')" />
   <ProjectExtensions>
